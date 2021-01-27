@@ -1,1 +1,1 @@
-[Twitch](https://www.twitch.tv/directory/all)
+([Twitch](https://www.twitch.tv/directory/all))
